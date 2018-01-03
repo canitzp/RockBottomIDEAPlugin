@@ -1,0 +1,16 @@
+plugins {
+    id 'org.jetbrains.intellij' version '0.2.17'
+}
+
+group 'de.de.rockbottomdev'
+version '1.0.0'
+
+apply plugin: 'java'
+apply plugin: 'idea'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+intellij {
+    version '2017.3.1'
+}
