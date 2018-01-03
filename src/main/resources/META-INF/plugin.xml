@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>de.de.rockbottomdev</id>
   <name>RockBottom Dev Plugin</name>
-  <version>1.0.0</version>
+  <version>1.1.0</version>
   <vendor email="canitzp@googlemail.com" url="http://www.canitzp.de">canitzp</vendor>
 
   <description><![CDATA[
